@@ -1,4 +1,4 @@
-# junit_springboot
+# junit di springboot
 Implementasi Junit di spring boot dan improvisasi test case endpoint menggunakan mockito secara per-layer (Repository, Service, Controller, Integration, System)
 
 ## Server Information
