@@ -1,0 +1,5 @@
+create table t_employee (
+	empid varchar(100) not null,
+        empname varchar(200),
+        primary key(empid)
+    );
