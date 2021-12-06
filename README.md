@@ -1,5 +1,5 @@
 # junit_springboot
-Implementasi Junit di spring boot dan improvisasi test case menggunakan mockito secara per-layer (Repository, Service, Controller, Integration, System)
+Implementasi Junit di spring boot dan improvisasi test case endpoint menggunakan mockito secara per-layer (Repository, Service, Controller, Integration, System)
 
 ## Server Information
 - OS : Windows 10
